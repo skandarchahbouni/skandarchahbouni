@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm CHAHBOUNI Skandar-Ramzi</h1>
-<h3 align="center">An Algerian software engineer deeply enthusiastic about DevOps.</h3>
+<h3 align="center">I am a recent engineering graduate from the Higher School of Computer Science in Algeria, and currently a Master 2 student in Data Engineering at Paris-Saclay University.</h3>
 
-- 🔭 I’m currently working on [the design and implementation of a multi-cluster orchestration system across the cloud-edge continuum.](https://www.charity-project.eu/en)
-
-- 🌱 I’m currently learning **Golang, .Net, azur.**
+- 🌱 I’m currently learning **GCP PDE track**
 
 - 💬 Ask me about **node js, python, docker & kubernetes.**
 
