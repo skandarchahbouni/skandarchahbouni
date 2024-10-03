@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm CHAHBOUNI Skandar-Ramzi</h1>
 <h3 align="center">I am a recent engineering graduate from the Higher School of Computer Science in Algeria, and currently a Master 2 student in Data Engineering at Paris-Saclay University.</h3>
 
-- 🌱 I’m currently learning **GCP PDE track**
+- 🌱 I’m currently learning **GCP PDE**.
 
 - 💬 Ask me about **node js, python, docker & kubernetes.**
 
