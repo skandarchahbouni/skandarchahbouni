@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm CHAHBOUNI Skandar</h1>
 <h3 align="center">Motivated and dedicated individual with a passion for solving complex problems and creating efficient, scalable solutions. Proven ability to work both independently and collaboratively within a team, demonstrating strong communication and problem-solving skills. Committed to continuous learning and staying updated on the latest developments in the field.</h3>
 
-- 🌱 Lifelong learner.
-
 - 📫 How to reach me **skandarchahbouni@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
