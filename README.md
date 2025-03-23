@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm CHAHBOUNI Skandar-Ramzi</h1>
-<h3 align="center">I am a recent engineering graduate from the Higher School of Computer Science in Algeria, and currently a Master 2 student in Data Engineering at Paris-Saclay University.</h3>
+<h1 align="center">Hi 👋, I'm CHAHBOUNI Skandar</h1>
+<h3 align="center">Motivated and dedicated individual with a passion for solving complex problems and creating efficient, scalable solutions. Proven ability to work both independently and collaboratively within a team, demonstrating strong communication and problem-solving skills. Committed to continuous learning and staying updated on the latest developments in the field.</h3>
 
-- 🌱 I’m currently learning **GCP PDE**.
-
-- 💬 Ask me about **node js, python, docker & kubernetes.**
+- 🌱 Lifelong learner.
 
 - 📫 How to reach me **skandarchahbouni@gmail.com**
 
